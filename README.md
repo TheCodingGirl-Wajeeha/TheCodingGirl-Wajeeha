@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Wajeeha 👩‍💻  
 
-<!--
-**TheCodingGirl-Wajeeha/TheCodingGirl-Wajeeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **CS Student | Tech Enthusiast | Content Creator**  
+📚 Currently learning **C++, Python, Web Development**  
+🚀 Passionate about coding, problem-solving & building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools  
+- **Languages:** C++, Python, HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code, Canva  
+- **Interests:** Data Science, Web Apps, Open Source  
+
+---
+
+## 📂 Featured Projects  
+- 🖥️ **C++ Mini Projects** – Beginner-friendly coding exercises  
+- 🌐 **Personal Website** – My first web development project  
+- 🐍 **Python Practice** – Scripts & problem-solving  
+
+---
+
+## 🌍 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/wajeehaasad/)
+- [YouTube – TheLearnLoop](https://www.youtube.com/@LearnLoop321)
+- [Instagram – TheCodingGirl](https://www.instagram.com/techwithwajeeha/)  
